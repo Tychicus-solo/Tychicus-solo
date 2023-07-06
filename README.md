@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_tychicus" target="blank"><img src="https://img.shields.io/twitter/follow/the_tychicus?logo=twitter&style=for-the-badge" alt="the_tychicus" /></a> </p>
 
-- 🔭 I’m currently working on **my companies real estate product admin v2**
+- 🔭 I’m currently working on **my companies real estate product's admin v2**
 
 - 🌱 I’m currently learning **React, next js**
 
