@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tychicus</h1>
-<h3 align="center">A frontend developer and coding instructor from Nigeria. 🚀 Transforming visions into pixel-perfect realities 🎯</h3>
+<h3 align="center">A frontend developer from Nigeria. 🚀 Transforming visions into pixel-perfect realities 🎯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tychicus-solo&label=Profile%20views&color=0e75b6&style=flat" alt="tychicus-solo" /> </p>
 
