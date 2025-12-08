@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my companies real estate product's admin v2**
 
-- 🌱 I’m currently learning **React, next js**
+- 🌱 I’m currently learning **Figma to become a design engineer**
 
 - 📫 How to reach me **eniolorundatolu@yahoo.com**
 
