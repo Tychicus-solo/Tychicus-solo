@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the admin of a crypto/fintech super app**
 
-- 🌱 I’m currently learning **Figma to become a design engineer**
+- 🌱 I’m currently learning **Node.js to become a full-stack developer**
 
 - 📫 How to reach me **eniolorundatolu@yahoo.com**
 
